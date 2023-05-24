@@ -1,0 +1,33 @@
+{
+  "name": "chunkarray",
+  "version": "1.0.0",
+  "description": "Creates an array of elements split into groups the length of size. If array can't be split evenly, the final chunk will be the remaining elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhpedia/chunkArray.git"
+  },
+  "keywords": [
+    "chunk",
+    "array",
+    "array",
+    "javascript",
+    "data",
+    "format",
+    "process",
+    "values",
+    "split",
+    "group",
+    "remaining",
+    "element"
+  ],
+  "author": "Saurabh Raman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saurabhpedia/chunkArray/issues"
+  },
+  "homepage": "https://github.com/saurabhpedia/chunkArray#readme"
+}
