@@ -1,6 +1,6 @@
 {
   "name": "data_chunk_array",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Creates an array of elements split into groups the length of size. If array can't be split evenly, the final chunk will be the remaining elements",
   "main": "index.js",
   "scripts": {

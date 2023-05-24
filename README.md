@@ -5,11 +5,11 @@ This function creates an array of elements split into groups of the given size. 
 ## Usage
 
 ```javascript
-const chunkArray = require('./chunkArray');
+const dataChunkArray = require('./dataChunkArray');
 
 const inputArray = ['a', 'b', 'c', 'd'];
 const chunkSize = 2;
-const output = chunkArray(inputArray, chunkSize);
+const output = dataChunkArray(inputArray, chunkSize);
 console.log(output);
 ````
 
