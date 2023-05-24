@@ -1,4 +1,4 @@
-function chunkArray(array, size) {
+function dataChunkArray(array, size) {
   const chunkedArray = [];
   let index = 0;
 
@@ -10,4 +10,4 @@ function chunkArray(array, size) {
   return chunkedArray;
 }
 
-module.exports = { chunkArray };
+module.exports = { dataChunkArray };

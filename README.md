@@ -1,4 +1,4 @@
-# chunkArray
+# DataChunkArray
 
 This function creates an array of elements split into groups of the given size. If the input array cannot be split evenly, the final chunk will contain the remaining elements.
 
